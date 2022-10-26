@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1{
+    color: gray;
+    padding: 20px 20px 0px 20px;
+}
+
+div{
+    padding: 20px 20px 0px 20px;
+    margin-left: 20px;
+}
+
+form{
+    background-color: white;
+    border-radius: 5%;
+    margin-right: 60%;
+    margin-left: 10%;
+}
+
+footer { padding: 0px 20px 20px 20px; }
+
+label { margin-left: 5%; }
+
+#amount{ margin-left: 65px; }
+#ratebar{ margin-left: 35px; }
+#years{ margin-left: 35px; }
+
+#answer > p{
+    visibility: collapse;
+    display: block;
+}
+
+span{ background-color: yellow; }
+#percent{ background-color: white; }
