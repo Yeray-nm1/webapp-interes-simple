@@ -1,6 +1,6 @@
 (function(){
     
-  //comment test 23
+  //comment test 21
   'use strict';
   var nselect = document.querySelector('select');
   const nprogress = document.getElementById('ratebar');
