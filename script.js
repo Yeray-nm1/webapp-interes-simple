@@ -1,5 +1,10 @@
 (function(){
     'use strict';
+
+
+
+
+    
     
     var nselect = document.querySelector('select');
     const nprogress = document.getElementById('ratebar');
